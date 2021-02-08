@@ -2,11 +2,9 @@
     width: 500px;
     text-align: center;
     margin-left: 500px;
-    margin-top: 300px;
+    margin-top: 100px;
 }
-.foodSection{
-    width: fit-content;
-}
+
 .foodImg{
     width: 200px;
     height: 200px;
